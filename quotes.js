@@ -24,5 +24,100 @@ const quotes = [
     "The key is to keep company only with people who uplift you. - Epictetus",
     "Don't explain your philosophy. Embody it. - Epictetus",
     "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will. - Epictetus",
-    // ... Add more quotes to reach 100 ...
+    {
+        text: "When we are no longer able to change a situation, we are challenged to change ourselves.",
+        author: "Marcus Aurelius"
+    },
+    {
+        text: "The impediment to action advances action. What stands in the way becomes the way.",
+        author: "Marcus Aurelius"
+    },
+    {
+        text: "To live a good life: We have the potential for it. If we learn to be indifferent to what makes no difference.",
+        author: "Marcus Aurelius"
+    },
+    {
+        text: "Be tolerant with others and strict with yourself.",
+        author: "Marcus Aurelius"
+    },
+    {
+        text: "The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are.",
+        author: "Marcus Aurelius"
+    },
+    {
+        text: "It is not death that a man should fear, but rather he should fear never beginning to live.",
+        author: "Marcus Aurelius"
+    },
+    {
+        text: "Difficulties strengthen the mind, as labor does the body.",
+        author: "Seneca"
+    },
+    {
+        text: "If a man knows not to which port he sails, no wind is favorable.",
+        author: "Seneca"
+    },
+    {
+        text: "They lose the day in expectation of the night, and the night in fear of the dawn.",
+        author: "Seneca"
+    },
+    {
+        text: "Begin at once to live, and count each separate day as a separate life.",
+        author: "Seneca"
+    },
+    {
+        text: "It is the power of the mind to be unconquerable.",
+        author: "Seneca"
+    },
+    {
+        text: "Sometimes even to live is an act of courage.",
+        author: "Seneca"
+    },
+    {
+        text: "Man is affected not by events but by the view he takes of them.",
+        author: "Epictetus"
+    },
+    {
+        text: "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.",
+        author: "Epictetus"
+    },
+    {
+        text: "Any person capable of angering you becomes your master.",
+        author: "Epictetus"
+    },
+    {
+        text: "Wealth consists not in having great possessions, but in having few wants.",
+        author: "Epictetus"
+    },
+    {
+        text: "If you want to improve, you must be content to be thought foolish and stupid.",
+        author: "Epictetus"
+    },
+    {
+        text: "The greater the difficulty, the more glory in surmounting it.",
+        author: "Epictetus"
+    },
+    {
+        text: "Only the educated are free.",
+        author: "Epictetus"
+    },
+    {
+        text: "No great thing is created suddenly.",
+        author: "Epictetus"
+    },
+    {
+        text: "He with the most who is content with the least.",
+        author: "Epictetus"
+    },
+    {
+        text: "If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you but answer, 'He was ignorant of my other faults, else he would have not mentioned these alone.'",
+        author: "Epictetus"
+    },
+    {
+        text: "The wise man looks at death with peaceful eyes.",
+        author: "Seneca"
+    },
+    {
+        text: "While we wait for life, life passes.",
+        author: "Seneca"
+    }
 ]; 
